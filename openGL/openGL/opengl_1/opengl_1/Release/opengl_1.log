@@ -1,0 +1,18 @@
+﻿  opengl_1.cpp
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(65,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(66,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(69,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(70,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(72,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(73,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(79,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(126,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(126,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_1\opengl_1\opengl_1.cpp(318,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 469 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  opengl_1.vcxproj -> C:\Users\fzb\Desktop\openGL\opengl_1\Release\opengl_1.exe

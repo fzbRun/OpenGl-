@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/assimp-master/tools/assimp_cmd/CMakeLists.txt
+  CompareDump.cpp
+  ImageExtractor.cpp
+  Main.cpp
+  WriteDump.cpp
+  Info.cpp
+  Export.cpp
+  assimp_cmd.vcxproj -> D:\assimp-master\bulid\bin\Release\assimp.exe

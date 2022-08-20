@@ -1,0 +1,10 @@
+^D:\ASSIMP-MASTER\BULID\CMAKEFILES\C6D8C81DC88ABAB03AF19D778E66E53F\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SD:/assimp-master -BD:/assimp-master/bulid --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/assimp-master/bulid/Assimp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

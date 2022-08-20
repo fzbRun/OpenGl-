@@ -1,0 +1,49 @@
+﻿Mesh.obj : error LNK2019: 无法解析的外部符号 __imp___invalid_parameter，函数 "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned int)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPAXI@Z) 中引用了该符号
+MyModel.obj : error LNK2001: 无法解析的外部符号 __imp___invalid_parameter
+MyShader.obj : error LNK2001: 无法解析的外部符号 __imp___invalid_parameter
+opengl_3.obj : error LNK2001: 无法解析的外部符号 __imp___invalid_parameter
+Mesh.obj : error LNK2019: 无法解析的外部符号 __imp___CrtDbgReport，函数 "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned int)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPAXI@Z) 中引用了该符号
+MyModel.obj : error LNK2001: 无法解析的外部符号 __imp___CrtDbgReport
+MyShader.obj : error LNK2001: 无法解析的外部符号 __imp___CrtDbgReport
+opengl_3.obj : error LNK2001: 无法解析的外部符号 __imp___CrtDbgReport
+Mesh.obj : error LNK2001: 无法解析的外部符号 _glad_glDrawElements
+Mesh.obj : error LNK2001: 无法解析的外部符号 _glad_glBindTexture
+MyModel.obj : error LNK2001: 无法解析的外部符号 _glad_glBindTexture
+Mesh.obj : error LNK2001: 无法解析的外部符号 _glad_glActiveTexture
+Mesh.obj : error LNK2001: 无法解析的外部符号 _glad_glBindBuffer
+Mesh.obj : error LNK2001: 无法解析的外部符号 _glad_glGenBuffers
+Mesh.obj : error LNK2001: 无法解析的外部符号 _glad_glBufferData
+Mesh.obj : error LNK2001: 无法解析的外部符号 _glad_glEnableVertexAttribArray
+Mesh.obj : error LNK2001: 无法解析的外部符号 _glad_glVertexAttribPointer
+Mesh.obj : error LNK2001: 无法解析的外部符号 _glad_glBindVertexArray
+Mesh.obj : error LNK2001: 无法解析的外部符号 _glad_glGenVertexArrays
+MyModel.obj : error LNK2001: 无法解析的外部符号 _glad_glTexParameteri
+MyModel.obj : error LNK2001: 无法解析的外部符号 _glad_glTexImage2D
+MyModel.obj : error LNK2001: 无法解析的外部符号 _glad_glGenTextures
+MyModel.obj : error LNK2001: 无法解析的外部符号 _glad_glGenerateMipmap
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glAttachShader
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glCompileShader
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glCreateProgram
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glCreateShader
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glDeleteShader
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glGetProgramiv
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glGetProgramInfoLog
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glGetShaderiv
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glGetShaderInfoLog
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glGetUniformLocation
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glLinkProgram
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glShaderSource
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glUseProgram
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glUniform1f
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glUniform1i
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glUniform3fv
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glUniformMatrix3fv
+MyShader.obj : error LNK2001: 无法解析的外部符号 _glad_glUniformMatrix4fv
+opengl_3.obj : error LNK2019: 无法解析的外部符号 _gladLoadGLLoader，函数 _main 中引用了该符号
+opengl_3.obj : error LNK2001: 无法解析的外部符号 _glad_glClear
+opengl_3.obj : error LNK2001: 无法解析的外部符号 _glad_glClearColor
+opengl_3.obj : error LNK2001: 无法解析的外部符号 _glad_glEnable
+opengl_3.obj : error LNK2001: 无法解析的外部符号 _glad_glViewport
+msvcprtd.lib(locale0_implib.obj) : error LNK2019: 无法解析的外部符号 __imp___free_dbg，函数 "public: static void __cdecl std::_Fac_node::operator delete(void *)" (??3_Fac_node@std@@SAXPAX@Z) 中引用了该符号
+msvcprtd.lib(locale0_implib.obj) : error LNK2019: 无法解析的外部符号 __imp___malloc_dbg，函数 "public: static void * __cdecl std::_Fac_node::operator new(unsigned int)" (??2_Fac_node@std@@SAPAXI@Z) 中引用了该符号
+C:\Users\fzb\Desktop\openGL\opengl_3\Debug\opengl_3.exe : fatal error LNK1120: 41 个无法解析的外部命令

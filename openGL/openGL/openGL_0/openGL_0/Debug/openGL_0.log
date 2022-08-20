@@ -1,0 +1,6 @@
+﻿  openGL_0.cpp
+MyShader.obj : error LNK2019: 无法解析的外部符号 __imp___invalid_parameter，函数 "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned int)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPAXI@Z) 中引用了该符号
+MyShader.obj : error LNK2019: 无法解析的外部符号 __imp___CrtDbgReport，函数 "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned int)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPAXI@Z) 中引用了该符号
+msvcprtd.lib(locale0_implib.obj) : error LNK2019: 无法解析的外部符号 __imp___free_dbg，函数 "public: static void __cdecl std::_Fac_node::operator delete(void *)" (??3_Fac_node@std@@SAXPAX@Z) 中引用了该符号
+msvcprtd.lib(locale0_implib.obj) : error LNK2019: 无法解析的外部符号 __imp___malloc_dbg，函数 "public: static void * __cdecl std::_Fac_node::operator new(unsigned int)" (??2_Fac_node@std@@SAPAXI@Z) 中引用了该符号
+C:\Users\fzb\Desktop\openGL\openGL_0\Debug\openGL_0.exe : fatal error LNK1120: 4 个无法解析的外部命令

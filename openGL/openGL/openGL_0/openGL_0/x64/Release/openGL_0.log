@@ -1,0 +1,31 @@
+﻿  glad.c
+  MyCamera.cpp
+  MyShader.cpp
+  openGL_0.cpp
+C:\Users\fzb\Desktop\openGL\openGL_0\openGL_0\openGL_0.cpp(37,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\openGL_0\openGL_0\openGL_0.cpp(59,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\openGL_0\openGL_0\openGL_0.cpp(60,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\openGL_0\openGL_0\openGL_0.cpp(63,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\openGL_0\openGL_0\openGL_0.cpp(64,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\openGL_0\openGL_0\openGL_0.cpp(65,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\openGL_0\openGL_0\openGL_0.cpp(66,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\openGL_0\openGL_0\openGL_0.cpp(72,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\openGL_0\openGL_0\openGL_0.cpp(330,37): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\fzb\Desktop\openGL\openGL_0\openGL_0\openGL_0.cpp(412,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwSwapBuffers
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwSetFramebufferSizeCallback
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwGetTime
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwGetKey
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwTerminate
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwPollEvents
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwInit
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwSetWindowShouldClose
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwSetScrollCallback
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwCreateWindow
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwWindowHint
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwSetInputMode
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwMakeContextCurrent
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwGetProcAddress
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwSetCursorPosCallback
+openGL_0.obj : error LNK2001: 无法解析的外部符号 glfwWindowShouldClose
+C:\Users\fzb\Desktop\openGL\openGL_0\x64\Release\openGL_0.exe : fatal error LNK1120: 16 个无法解析的外部命令

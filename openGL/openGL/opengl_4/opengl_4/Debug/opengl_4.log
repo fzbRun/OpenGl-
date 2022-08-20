@@ -1,0 +1,32 @@
+﻿  glad.c
+  Mesh.cpp
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\Mesh.cpp(53,20): warning C4018: “<”: 有符号/无符号不匹配
+  MyCamera.cpp
+  MyModel.cpp
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\MyModel.cpp(37,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\MyModel.cpp(60,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\MyModel.cpp(65,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\MyModel.cpp(75,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\MyModel.cpp(109,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\MyModel.cpp(111,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\MyModel.cpp(130,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\MyModel.cpp(134,21): warning C4018: “<”: 有符号/无符号不匹配
+  MyShader.cpp
+  MyObject.cpp
+  Ray.cpp
+  ray_tracing.cpp
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\ray_tracing.cpp(57,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\ray_tracing.cpp(58,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\ray_tracing.cpp(61,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\ray_tracing.cpp(62,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\ray_tracing.cpp(64,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\ray_tracing.cpp(65,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\ray_tracing.cpp(71,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\ray_tracing.cpp(118,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\ray_tracing.cpp(420,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\fzb\Desktop\openGL\opengl_4\opengl_4\ray_tracing.cpp(420,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Scene.cpp
+  正在生成代码...
+  tga.cpp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  opengl_4.vcxproj -> C:\Users\fzb\Desktop\openGL\opengl_4\Debug\opengl_4.exe
